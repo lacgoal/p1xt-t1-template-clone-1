@@ -1,0 +1,62 @@
+body {
+  background: green;
+}
+.top-section {
+  background-image: url(https://source.unsplash.com/user/oldskool2016/daily);
+}
+.main-blast {
+  border: 5px solid black;
+  border-radius: 0px 50px;
+  padding: 20px 20px;
+  margin-top: 10%;
+  width: 50%;
+  text-align: center;
+  background: #fff;
+  opacity: 0.5;
+}
+.navbar-nav {
+    float:none;
+    margin:0 auto;
+    display: block;
+    text-align: center;
+}
+.navbar-nav > li {
+    display: inline-block;
+    float:none;
+}
+.title {
+  text-align: center;
+  padding: 10px 0px;
+}
+.top-block {
+  background: gray;
+  padding: 40px 0px;
+  opacity: 0.5;
+  color: #fff;
+}
+
+.main-btns {
+  border: 5px solid white;
+  border-radius: 0px 30px;
+  padding: 20px 20px;
+  margin-top: 5%;
+  width: 10%;
+  text-align: center;
+}
+.button-section-one {
+  text-align: center;
+}
+.s1-b1 {
+  background-color: transparent;
+  color: #fff;
+}
+.s1-b1:hover {
+  background-color: #707941;
+}
+.s1-b2 {
+  background: #707941;
+  color: #fff;
+}
+.s1-b2:hover {
+  background-color: transparent;
+}
