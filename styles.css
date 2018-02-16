@@ -3,6 +3,9 @@ body {
 }
 .top-section {
   background-image: url(https://source.unsplash.com/user/oldskool2016/daily);
+  background-size: auto 100%;
+  background-repeat: no-repeat;
+  background-position: center;
 }
 .main-blast {
   border: 5px solid black;
@@ -45,6 +48,8 @@ body {
 }
 .button-section-one {
   text-align: center;
+  padding-bottom: 10%;
+
 }
 .s1-b1 {
   background-color: transparent;
@@ -59,4 +64,51 @@ body {
 }
 .s1-b2:hover {
   background-color: transparent;
+}
+.four-button-section {
+  background: #fff;
+}
+.fhgb {
+  text-align: center;
+  height: 30%;
+  margin-top: 5%;
+}
+.fhgb-col {
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+
+  padding: 5% 0%;
+}
+.fhgb-blurb {
+  text-align: center;
+  padding: 5% 5%;
+}
+.ferm, .hend, .grav, .prt {
+  background-size: auto 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  color: #fff;
+}
+.ferm  {
+  background-image: url(https://source.unsplash.com/user/gallarotti/random);
+}
+.hend {
+  background-image: url(https://source.unsplash.com/random);
+}
+.grav {
+  background-image: url(https://source.unsplash.com/user/samuelzeller/daily);
+}
+.port  {
+  background-image: url(https://source.unsplash.com/user/hgudka97/daily);
+}
+.scnd-btns {
+  border-radius: 0px 30px;
+  padding: 10px 10px;
+  margin-top: 5%;
+  margin-bottom: 8%;
+  width: auto;
+  text-align: center;
+  background-color: #707941;
+  color: #fff;
 }
